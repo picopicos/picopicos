@@ -10,6 +10,8 @@
 ## ⚒️My Works
 
 - [Easy Coding Standard for VS Code](https://github.com/picopicos/easy-coding-standard-vscode) - PHP formatter extension for VS Code and Cursor.
+- (WIP) PHP Code Generator - Generate PHP Codes by TypeScript.
+- (WIP) [TypeSpec Emitter for PHP](https://github.com/picopicos/typespec-emitter-php) - Auto-generate PHP DTO Codes from TypeSpec definitions.
 
 ## 📫Contact me
 
